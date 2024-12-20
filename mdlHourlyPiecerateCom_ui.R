@@ -9,10 +9,13 @@ tabItem(tabName = "mdlHourlyPiecerateCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdlHourlyPiecerateUI::HourlyPieceUI()
-                                     
-                                    
-                                    
+                                    mdlHourlyPiecerateUI::HourlyPieceUI(),
+                                    mdlHourlyPiecerateUI::HandywagesUI(),
+                                    mdlHourlyPiecerateUI::HourlyWagesUI(),
+                                    mdlHourlyPiecerateUI::HourlyRoutingUI(),
+                                    mdlHourlyPiecerateUI::productRoutingUI(),
+                                    mdlHourlyPiecerateUI::productpriceUI(),
+                                    mdlHourlyPiecerateUI::productdailyUI()
                                     #end----
                                     
                                     

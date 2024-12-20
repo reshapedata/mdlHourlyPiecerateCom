@@ -12,6 +12,7 @@ module_name ='模块演示'
 
 #获取数据中台数据库连接的token,演示数据为py_test
 dms_token ='5B2DEDC4-4CD1-4A93-8871-97AC017C544C'
+erp_token ='3A15BF14-DE85-40F5-B633-74B1CB713A1D'
 
 #加载数据中台的所有系统包及程序包
 tstk::import(app_id)
